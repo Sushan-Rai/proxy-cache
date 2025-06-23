@@ -1,0 +1,3 @@
+[submodule "proxyfrontend"]
+	path = proxyfrontend
+	url = https://github.com/Sushan-Rai/proxy-frontend
