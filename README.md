@@ -95,7 +95,3 @@ key
 ## Notes
 - Ensure VPN is active to tunnel traffic.
 - Use Wireshark to verify that traffic is correctly routed via VPN and not leaking.
-
----
-
-If you need further clarification or a complete zipped package with example code and this README included, feel free to ask!
